@@ -1,0 +1,68 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.banner img{
+	width: 100%;
+}
+.rooms{
+	background: #2e388d;
+}
+
+.rooms img{
+
+	width: 100px;
+	padding:5px;
+}
+
+body{
+	/*background-color: #8d4c4c;  */
+	background-color: teal;
+}
+
+
+tbody{
+	/*background-color: blue; */
+	background-color: whitesmoke;
+}
+
+.info img{
+	width: 50%;
+}
+
+.table{
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.banner{
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+ul{
+	display: flex;
+
+}
+
+.nav li a {
+	position: relative;
+	display: block;
+	padding:10px 15px;
+	text-decoration: none;
+}
+
+a{
+	background-color: whitesmoke;
+}
+
+navbar-header{
+	display: flex;
+}
+
+.btn{
+	padding: 6px 12px;
+}
+
+
