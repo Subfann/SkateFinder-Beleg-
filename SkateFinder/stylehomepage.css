@@ -41,6 +41,18 @@ p {
 	letter-spacing: .2rem;
 	text-align: center;
 }
+
+
+.section-title2 {
+	font-size: 3.5rem;
+	font-weight: 600;
+	color: black;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+	letter-spacing: .2rem;
+	text-align: center;
+}
+
 .section-title span {
 	color: teal;
 }
@@ -489,7 +501,7 @@ p {
 	background-color: teal;
 }
 #contact .contact-items {
-	width: 400px;
+	width: 100vw;
 	
 }
 #contact .contact-item {
@@ -807,5 +819,18 @@ p {
 		flex-basis: 22%;
 		margin: 1.5%;
 	}
+
+	.section-title2 {
+		
+		font-size: 6rem;
+		font-weight: 600;
+		color: black;
+		margin-bottom: 10px;
+		text-transform: uppercase;
+		letter-spacing: .2rem;
+		text-align: center;
+	}
+	
+
 }
 /* End  Media Query For Desktop */
